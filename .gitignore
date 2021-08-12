@@ -1,0 +1,34 @@
+/.vscode
+/ADAMS_ASS.ipynb
+/adams_ass_kopie.ipynb
+/clean_train.pkl
+/ex.11.ipynb
+/ex.12.ipynb
+/ex.9.ipynb
+/ex1.ipynb
+/ex10.ipynb
+/ex3.ipynb
+/ex4.ipynb
+/ex5.ipynb
+/ex7.ipynb
+/ex8_part1.ipynb
+/ex8_part2_(financial forecasting).ipynb
+/exer2.ipynb
+/GRU.png
+/model1.pkl
+/model_2.h5
+/model_2_history.h5
+/model_last_history.h5
+/one more try.ipynb
+/one more try2.ipynb
+/parameter_tuning.ipynb
+/prep_appstore.ipynb
+/skip_w2v_model.model
+/submission.csv
+/submission_tesl_final.csv
+/submission_tesl_too_good_to_be_true.csv
+/Teslenko_ADAMS.ipynb
+/test.py
+/tutorial-0.ipynb
+/W2V.png
+/w2v_CBOW.model
